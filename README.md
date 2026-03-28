@@ -7,4 +7,5 @@ Telegram-бот: пользователь отправляет файл (CSV/Exc
 Важно: приложение должно использовать LLM через API программно, а не через ручной веб-интерфейс ChatGPT/Claude.
 
 ### Что сделано
-Telegram-бот задеплоен на Yandex CLoud в Serverless Container, бот доступен по ссылке https://t.me/dvfu_data_analyst_3_bot
+Telegram-бот задеплоен на Yandex CLoud в Serverless Container, бот доступен по ссылке https://t.me/dvfu_data_analyst_3_bot  
+Проверить возможности бота можно, загрузив как пример файл train_and_test2.csv или HR_Employee_Data.xlsx
