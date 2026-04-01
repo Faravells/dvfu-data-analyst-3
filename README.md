@@ -8,4 +8,4 @@ Telegram-бот: пользователь отправляет файл (CSV/Exc
 
 ### Что сделано
 Telegram-бот задеплоен на Yandex CLoud в Serverless Container, бот доступен по ссылке https://t.me/dvfu_data_analyst_3_bot  
-Проверить возможности бота можно, загрузив как пример файл train_and_test2.csv или HR_Employee_Data.xlsx
+Проверить возможности бота можно, загрузив как пример файл Titanic-Dataset.csv или HR_Employee_Data.xlsx
