@@ -1,4 +1,4 @@
 openai~=2.30.0
 python-dotenv~=1.2.2
 python-telegram-bot~=22.7
-pandas~=3.0.1
+e2b_code_interpreter~=2.6.0
